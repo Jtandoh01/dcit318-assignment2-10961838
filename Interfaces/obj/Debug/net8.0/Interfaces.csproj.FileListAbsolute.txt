@@ -1,0 +1,14 @@
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Users\JOHNSON\Desktop\dcit318-assignment2-10961838\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
